@@ -1,8 +1,7 @@
 Package: Prac23RodoHonsMultFA
 Title: 2023 honours multivariate FA practical
 Version: 0.0.0-1
-Authors@R: 
-    person("Miguel", "Rodo", , "miguel.rodo@uct.ac.za", role = c("aut", "cre"))
+Authors@R: person("Miguel", "Rodo", , "miguel.rodo@uct.ac.za", role = c("aut", "cre"))
 Maintainer: Miguel Rodo <miguel.rodo@uct.ac.za>
 Description: 2023 honours multivariate FA practical
 License: CC BY 4.0
