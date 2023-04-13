@@ -1,0 +1,21 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+_data_raw/**/*
+
+
+_tmp/**/*
+
+
+_output/**/*
+
+
+_archive/**/*
+
+
+docs/**/*
+
+
