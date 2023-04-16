@@ -1166,14 +1166,14 @@
     },
     "projr": {
       "Package": "projr",
-      "Version": "0.0.8.9047",
+      "Version": "0.0.8.9048",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteUsername": "SATVILab",
       "RemoteRepo": "projr",
       "RemoteRef": "main",
-      "RemoteSha": "f14c14106219cfe00ad8406db5ffeb7810ddf84c",
+      "RemoteSha": "a83c72f328b479659bc96d8b039a32f2da128c80",
       "Requirements": [
         "bookdown",
         "desc",
@@ -1190,7 +1190,7 @@
         "usethis",
         "yaml"
       ],
-      "Hash": "3d849de971cd24e2a3731b82bedced5e"
+      "Hash": "38a4662341eef08005b76974882864a2"
     },
     "promises": {
       "Package": "promises",
@@ -1321,13 +1321,7 @@
       "Package": "renv",
       "Version": "0.17.0",
       "Source": "Repository",
-      "Repository": "RSPM",
-      "RemoteType": "standard",
-      "RemotePkgRef": "renv",
-      "RemoteRef": "renv",
-      "RemoteRepos": "https://packagemanager.posit.co/cran/__linux__/jammy/latest",
-      "RemotePkgPlatform": "x86_64-pc-linux-gnu-ubuntu-22.04",
-      "RemoteSha": "0.17.0",
+      "Repository": "CRAN",
       "Requirements": [
         "utils"
       ],
