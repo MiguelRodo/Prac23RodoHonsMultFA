@@ -19,11 +19,4 @@ build:
     commit: yes
     add-untracked: yes
     push: yes
-  github-release:
-    '@version':
-      content: code
-      body: Latest source code
-    "FA_Assignment":
-      content: ["data-raw", "docs"]
-      body: Raw data and questions
 

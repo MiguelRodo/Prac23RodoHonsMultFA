@@ -72,5 +72,5 @@ In other words, show that the sum of squared errors between the sample covarianc
 
 - Note that $\symbf{S}-(\hat{\symbf{L}}\hat{\symbf{L}}' + \hat{\symbf{\Psi}})$ has zeroes on the diagonal, meaning that $\mathrm{tr}[(\symbf{S}-(\hat{\symbf{L}}\hat{\symbf{L}}' + \hat{\symbf{\Psi}}))'(\symbf{S}-(\hat{\symbf{L}}\hat{\symbf{L}}' + \hat{\symbf{\Psi}}))]\leq \mathrm{tr}[(\symbf{S}-\hat{\symbf{L}}\hat{\symbf{L}}')'(\symbf{S}-\hat{\symbf{L}}\hat{\symbf{L}}')]$
 - Also note that $\symbf{S}-\hat{\symbf{L}}\hat{\symbf{L}}'=\sum_{i=m+1}^p\lambda_i\symbf{e}_i\symbf{e}_i'$, where $\symbf{e}_i$ is the eigenvector of $\symbf{S}$ associated with the $i$-th largest eigenvalue $\lambda_i$.
-- The trace property that $\mathrm{tr}[\symbf{A}\symbf{B}\symbf{C}]=\mathrm{tr}[\symbf{C}\symbf{A}\symbf{B}]=\mathrm{tr}[\symbf{B}\symbf{C}\symbf{A}]$ and the transpose property that $\symbf{A}\symbf{B})'=\symbf{B}'\symbf{A}'$ are useful here. 
+- The trace property that $\mathrm{tr}[\symbf{A}\symbf{B}\symbf{C}]=\mathrm{tr}[\symbf{C}\symbf{A}\symbf{B}]=\mathrm{tr}[\symbf{B}\symbf{C}\symbf{A}]$ and the transpose property that $(\symbf{A}\symbf{B})'=\symbf{B}'\symbf{A}'$ are useful here. 
   
